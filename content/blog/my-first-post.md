@@ -17,7 +17,7 @@ Needless to say, I was absolutely thrilled. Looking back on the project after al
 
 What follows is a brief summary partially adapted from COMAP's website:
 
-COMAP'S Mathematical Contest in Modeling (MCM)® / Interdisciplinary Contest in Modeling (ICM)® is an international contest designed to provide undergraduate students with the opportunity to work as team members to engage in and improve their modeling, problem solving, and writing skills. Teams apply mathematics to model, develop, and communicate a solution to a real-world problem.
+COMAP'S Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM) is an international contest designed to provide undergraduate students with the opportunity to work as team members to engage in and improve their modeling, problem solving, and writing skills. Teams apply mathematics to model, develop, and communicate a solution to a real-world problem.
 
 At the beginning of the contest, six open-ended problem statements are released. Teams then choose one statement to tackle, after which they spend 96 hours creating mathematical models that generate useful insights about the selected problem. Each of the six problems has a particular "flavor":
 
