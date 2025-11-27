@@ -8,17 +8,24 @@ theme = 'PaperMod'
   author = "Arjun Taneja"
 
   # Show breadcrumbs
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
   
   # Clean, minimal look
   ShowShareButtons = false
-  ShowReadingTime = false
+  ShowReadingTime = true
   disableSpecial1stPost = false
   
   # Hide metadata on homepage
+  homeInfoParams.enabled = false
   hideMetaOnHome = true
+
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
 
   [params.profileMode]
   enabled = true
@@ -50,23 +57,23 @@ theme = 'PaperMod'
   weight = 10
 
 [[menu.main]]
-  identifier = "awards"
-  name = "Awards"
-  url = "/awards/"
+  identifier = "about"
+  name = "About"
+  url = "/about/"
   weight = 20
 
 [[menu.main]]
-  identifier = "research"
-  name = "Research"
-  url = "/research/"
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
   weight = 30
 
-[[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "/projects/"
-  weight = 40
-
 # Markup settings for better formatting
+[markup]
+[markup.goldmark]
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true

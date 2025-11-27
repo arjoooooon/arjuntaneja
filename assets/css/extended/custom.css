@@ -1,0 +1,14 @@
+/* Increase sublist indentation */
+.post-content ul ul,
+.post-content ol ul,
+.post-content ul ol,
+.post-content ol ol {
+    margin-left: 2.5rem;
+}
+
+/* Also increase the indentation of nested list items */
+.post-content li ul,
+.post-content li ol {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
