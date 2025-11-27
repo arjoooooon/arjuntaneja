@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Arjun Taneja</title>
-    <link>http://localhost:1313/</link>
+    <link>https://arjuntaneja.com/</link>
     <description>Recent content on Arjun Taneja</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Nov 2025 15:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arjuntaneja.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A retrospective on math modeling contests</title>
-      <link>http://localhost:1313/blog/my-first-post/</link>
+      <link>https://arjuntaneja.com/blog/my-first-post/</link>
       <pubDate>Wed, 26 Nov 2025 15:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <guid>https://arjuntaneja.com/blog/my-first-post/</guid>
       <description>Reflections on my team&amp;#39;s past MCM/ICM performances</description>
     </item>
   </channel>
