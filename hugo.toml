@@ -39,7 +39,7 @@ theme = 'PaperMod'
   # Social icons (also appear in footer)
   [[params.socialIcons]]
   name = "email"
-  url = "mailto://arjun.taneja02@gmail.com"
+  url = "mailto:arjun.taneja02@gmail.com"
   
   [[params.socialIcons]]
   name = "linkedin"

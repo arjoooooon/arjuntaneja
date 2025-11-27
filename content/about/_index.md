@@ -14,8 +14,6 @@ I'm a Quantitative Researcher at [Tudor](https://www.tudorfunds.com/home) workin
 
 - **May 16, 2025**: Graduated from Harvey Mudd College with high distinction and departmental honors in Mathematics
 
-- **Something** Featured on HMC magazine
-
 - **Nov 26, 2025**: Received the [Henry A. Krieger Prize in Decision Sciences](https://www.hmc.edu/mathematics/about/awards/#:~:text=Headly2024–2025-,Arjun%20Taneja,-2022–2023Claire) from the Department of Mathematics at HMC
 
 - **May 3, 2024**: Won the top prize \[4 in 30,000\] competing in the Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (MCM/ICM). Presented with the following honors:
