@@ -1,0 +1,72 @@
+baseURL = 'https://arjuntaneja.com/'
+languageCode = 'en-us'
+title = 'Arjun Taneja'
+theme = 'PaperMod'
+
+[params]
+  description = "Arjun Taneja's personal website"
+  author = "Arjun Taneja"
+
+  # Show breadcrumbs
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  
+  # Clean, minimal look
+  ShowShareButtons = false
+  ShowReadingTime = false
+  disableSpecial1stPost = false
+  
+  # Hide metadata on homepage
+  hideMetaOnHome = true
+
+  [params.profileMode]
+  enabled = true
+  title = "Arjun Taneja"
+  subtitle = "Quantitative Researcher at [Tudor](https://www.tudorfunds.com/home)"
+  imageUrl = "images/headshot.png"  # Path relative to static/
+  imageWidth = 200
+  imageHeight = 200
+  imageTitle = "Arjun Taneja"
+
+  # Social icons (also appear in footer)
+  [[params.socialIcons]]
+  name = "email"
+  url = "arjun.taneja02@gmail.com"
+  
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/arjuntaneja"
+  
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/arjoooooon"
+
+# Menu configuration
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "awards"
+  name = "Awards"
+  url = "/awards/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 40
+
+# Markup settings for better formatting
+[markup.goldmark.renderer]
+  unsafe = true
